@@ -3,9 +3,9 @@
 Supplement to *Coverage, Not Freshness: Authorized Vector Search under Policy Churn*
 (ICDE 2027 Research Track submission).
 
-- [`supplement.pdf`](supplement.pdf) — 20 pages, 27 tables, 7 figures.
+- [`supplement.pdf`](supplement.pdf) — 16 pages, 30 tables, 7 figures.
 
-The document contains: the formal model and proofs' supporting lemmas, the
+The document contains: the formal model and supporting proofs, the
 mechanism ablation, fault injection and recovery, the deployment boundary, host
 portability, the Curator protocol control, the budget guard, and the full
 experimental protocols.
